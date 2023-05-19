@@ -76,7 +76,7 @@ Como Analista de Sistemas, atuei como parte da equipe de TI, sendo responsável 
 - Colaborei com outras equipes, como a de suporte ao cliente, para entender os desafios enfrentados pelos usuários e fornecer soluções eficazes.
 - Mantive-me atualizado com as tendências e avanços tecnológicos, participando de cursos e workshops, e compartilhando conhecimentos com a equipe.
 
-Durante meu tempo como Analista de Sistemas, pude contribuir para o desenvolvimento e aprimoramento de sistemas importantes para a empresa, melhorando a eficiência operacional e ajudando a alcançar os objetivos de negócio.
+Durante meu tempo como Analista de Sistemas, pude contribuir para o desenvolvimento e aprimoramento de sistemas importantes para a organizaç, melhorando a eficiência operacional e ajudando a alcançar os objetivos de negócio.
 
 ### Cargo: Analista de Negócio
 
@@ -108,7 +108,7 @@ Como Analista de Dados, fui responsável por coletar, analisar e interpretar dad
 - Monitorei e avaliei a eficácia das soluções implementadas, identificando áreas de melhoria e fornecendo recomendações baseadas em dados.
 - Mantive-me atualizado com as tendências e avanços em análise de dados, participando de cursos e conferências, e compartilhando conhecimentos com a equipe.
 
-Durante meu tempo como Analista de Dados, tive a oportunidade de fornecer insights acionáveis que auxiliaram a empresa na otimização de processos, identificação de oportunidades de crescimento e no desenvolvimento de estratégias de negócio baseadas em dados.
+Durante meu tempo como Analista de Dados, tive a oportunidade de fornecer insights acionáveis que auxiliaram os meus gestores na otimização de processos, identificação de oportunidades de crescimento e no desenvolvimento de estratégias de negócio baseadas em dados.
 
 ## Informações de Contato
 

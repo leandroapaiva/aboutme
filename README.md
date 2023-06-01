@@ -1,9 +1,6 @@
 ---
----
-
-@import "{{ site.theme }}";
-
 # Leandro Paiva
+---
 
 > Saudações! Sou um entusiasta da tecnologia e um desenvolvedor de software apaixonado. Tenho experiência na criação de aplicativos web e móveis, e estou sempre em busca de oportunidades para aprimorar minhas habilidades e explorar novas tecnologias.
 

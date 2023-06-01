@@ -3,7 +3,7 @@
 
 > Saudações! Sou um entusiasta da tecnologia e um desenvolvedor de software apaixonado. Tenho experiência na criação de aplicativos desktop, web e móvel, e estou sempre em busca de oportunidades para aprimorar minhas habilidades e explorar novas tecnologias.
 
-Ao longo da minha carreira, trabalhei em diversos projetos desafiadores, onde pude aplicar meus conhecimentos em desenvolvimento front-end e back-end. Tenho habilidades em linguagens de programação como JavaScript, Python e C#, além de conhecimentos em frameworks populares como Node.js e Angular e banco de dados como SQLServer, MySQL, postgres e firebase. 
+Ao longo da minha carreira, trabalhei em diversos projetos desafiadores, onde pude aplicar meus conhecimentos em desenvolvimento front-end e back-end. Tenho habilidades em linguagens de programação e banco de dados estruturados e não estruturado.
 
 Sou uma pessoa comprometida, proativa e com excelente capacidade de trabalho em equipe. Acredito que a colaboração e a busca constante por aprendizado são fundamentais para o crescimento profissional.
 
